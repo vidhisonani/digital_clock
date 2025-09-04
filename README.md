@@ -1,7 +1,8 @@
 # ⏰ Digital Clock
 
 A simple digital clock built with **HTML, CSS, and JavaScript**.  
-It displays the current time in **12-hour format with AM/PM** and updates in real-time.  
+It displays the current time in **12-hour format with AM/PM** and updates in real-time.
+It also shows the **current date** (weekday, month, day, and year).
 The background can be customized with any image of your choice.  
 
 ---
@@ -9,6 +10,7 @@ The background can be customized with any image of your choice.
 ## 🚀 Features
 - Real-time updating clock (refreshes every second).
 - 12-hour format with **AM/PM indicator**.
+- Displays the **current date** (e.g., `Thu, Sep 04, 2025`).
 - Centered, responsive design.
 - Background image with subtle blur effect.
 - Clean monospace font for a modern look.
