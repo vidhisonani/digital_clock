@@ -21,3 +21,6 @@ The background can be customized with any image of your choice.
 - **JavaScript (ES6)** for live clock logic
 
 ---
+
+## 🌐 Live Demo
+Try it here: [Digital Clock Live](https://vidhisonani.github.io/digital_clock/)
