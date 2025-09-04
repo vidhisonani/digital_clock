@@ -12,3 +12,12 @@ function updateClock(){
 }
 updateClock();
 setInterval(updateClock, 1000);
+
+function updateDate(){
+    const now = new Date();
+    const options = { weekday: "long", year: "numeric", month: "short", day: "2-digit" };
+    const dateString = now.toLocaleDateString("en-US", options);
+    document.getElementById("day").textContent = dateString;
+}
+updateDate();
+setInterval(updateDate, 60000);
